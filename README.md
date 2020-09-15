@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=oatrice)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oatrice&count_private=true&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=oatrice)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oatrice)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
