@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=oatrice)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oatrice&count_private=true&show_icons=true&show_owner=true&bg_color=30,e96443,904e95)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=oatrice&count_private=true&show_icons=true&show_owner=true&bg_color=30,009688,66bb6a)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oatrice)](https://github.com/anuraghazra/github-readme-stats)
 
 
